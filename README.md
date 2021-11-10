@@ -32,7 +32,7 @@ You can find my work on my <a href="https://dhruva-portfolio.netlify.app" target
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> 
    <img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> 
   <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> 
-  <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+
  
 </div>
 <br/>
